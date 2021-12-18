@@ -6,7 +6,7 @@ struct node
     int key;
     int count;
     struct node *left, *right;
-};
+}; 
 
 struct node *newNode(int item)
 {
